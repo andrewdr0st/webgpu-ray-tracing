@@ -1,2 +1,2 @@
-# webgpu-ray-tracing
+# Webgpu Ray Tracing
 Collection of WebGPU raytracing code and guides.
